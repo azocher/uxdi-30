@@ -1,5 +1,10 @@
 ## UXDI30 Microsoft Mockup
 ---
+**Note from Anna Zocher on March 10th, 2020:**
+
+This is a repository - it is the same thing as a folder, but on Github. Github is a third party tool that lets developers manage code. 
+
+Click on `index.html` above to see what our code from class was.
 
 ### Current Status
 By end of class today we:
