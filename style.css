@@ -15,3 +15,13 @@ h1 {
   font-weight: bold;
   padding-top: 10px;
 }
+
+.imagesMed .col-3 img {
+  text-align: center;
+  width: 250px;
+  margin-bottom: 15px;
+}
+
+.imagesMed, .imageText {
+  margin: 0 auto;
+}
